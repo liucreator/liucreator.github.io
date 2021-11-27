@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://liucreator.github.io/ledis-blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishdir = "./docs"
