@@ -1,6 +1,6 @@
 baseURL = 'https://liucreator.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ledis Blog'
 publishdir = "./docs"
 
 # theme config https://themes.gohugo.io/themes/soho/
@@ -10,19 +10,19 @@ summarylength = 10
 enableEmoji = true
 
 [params]
-author = "Author Name"
-description = "My Blog"
+author = "ledisthebest"
+description = "This is my Blog"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "images/profile.png"
+profilePicture = "images/profile.jpg"
 
-copyright = "Author Name"
+copyright = "liucreator"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
 ## Set custom theme color.
-# themeColor = "#fc2803"
+# themeColor = "#bd93f9"
 
 ## Set custom CSS and/or JS to override site defaults.
 customCss = ["css/blog.css"]
@@ -37,7 +37,7 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
+  url = "https://github.com/ledisthebest"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
