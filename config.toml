@@ -1,6 +1,6 @@
 baseURL = 'https://liucreator.github.io/'
 languageCode = 'en-us'
-title = 'ledis Blog'
+title = 'ledisthebest'
 publishdir = "./docs"
 
 # theme config https://themes.gohugo.io/themes/soho/
