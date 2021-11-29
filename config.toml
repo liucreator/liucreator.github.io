@@ -15,7 +15,7 @@ description = "This is my Blog"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "../../../images/profile.jpg"
+profilePicture = "../../../images/hey.png"
 
 copyright = "liucreator"
 license = "CC BY-SA 4.0"
