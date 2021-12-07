@@ -2,6 +2,8 @@ baseURL = "https://liucreator.github.io/"
 title = "LEDIS's Blog"
 paginate = 5
 theme = "papermod"
+publishdir = "./docs"
+
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
