@@ -3,6 +3,7 @@ title = "LEDIS' Blog"
 paginate = 5
 theme = "papermod"
 publishdir = "./docs"
+copyright = "是我的～"
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -42,7 +43,7 @@ tocopen = false
   favicon16x16 = "<link / abs url>"
   favicon32x32 = "<link / abs url>"
   apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  #safari_pinned_tab = "<link / abs url>"
 
   [params.label]
   text = "主页"
