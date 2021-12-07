@@ -9,6 +9,34 @@
       <link>https://liucreator.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>是我的～</copyright><atom:link href="https://liucreator.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>是我的～</copyright>
+    <lastBuildDate>Mon, 06 Dec 2021 23:20:00 -0700</lastBuildDate><atom:link href="https://liucreator.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cn</title>
+      <link>https://liucreator.github.io/tags/cn/</link>
+      <pubDate>Mon, 06 Dec 2021 23:20:00 -0700</pubDate>
+      
+      <guid>https://liucreator.github.io/tags/cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>个人</title>
+      <link>https://liucreator.github.io/tags/%E4%B8%AA%E4%BA%BA/</link>
+      <pubDate>Mon, 06 Dec 2021 23:20:00 -0700</pubDate>
+      
+      <guid>https://liucreator.github.io/tags/%E4%B8%AA%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建站</title>
+      <link>https://liucreator.github.io/tags/%E5%BB%BA%E7%AB%99/</link>
+      <pubDate>Mon, 06 Dec 2021 23:20:00 -0700</pubDate>
+      
+      <guid>https://liucreator.github.io/tags/%E5%BB%BA%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

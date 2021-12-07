@@ -8,11 +8,11 @@ author: "ledisthebest"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "立flag啦~"
-canonicalURL: "https://liucreator.github.io/post/start"
+canonicalURL: "https://liucreator.github.io/post/start/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
@@ -26,7 +26,7 @@ cover:
   relative: false # when using page bundles set this to true
   hidden: false # only hide on current single page
 editPost:
-  URL: "https://github.com/liucreator/liucreator.github.io/content/post/start.md"
+  URL: "https://github.com/liucreator/liucreator.github.io/blob/main/content/post/start.md"
   Text: "改进建议" # edit text
   appendFilePath: true # to append file path to Edit link
 ---

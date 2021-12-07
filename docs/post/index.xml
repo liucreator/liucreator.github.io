@@ -9,14 +9,15 @@
       <link>https://liucreator.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Dec 2021 18:17:00 -0700</lastBuildDate><atom:link href="https://liucreator.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>是我的～</copyright>
+    <lastBuildDate>Mon, 06 Dec 2021 23:20:00 -0700</lastBuildDate><atom:link href="https://liucreator.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>哈喽，World！</title>
       <link>https://liucreator.github.io/post/start/</link>
-      <pubDate>Mon, 06 Dec 2021 18:17:00 -0700</pubDate>
+      <pubDate>Mon, 06 Dec 2021 23:20:00 -0700</pubDate>
       
       <guid>https://liucreator.github.io/post/start/</guid>
-      <description>Desc Text.</description>
+      <description>立flag啦~</description>
     </item>
     
   </channel>
