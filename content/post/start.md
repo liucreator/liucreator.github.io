@@ -17,7 +17,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
@@ -58,4 +58,4 @@ editPost:
 - 还刚开始吧，实话实说我还不太懂这个框架的原理，鼓捣了几天给弄“滚挂”了，所以就清空了仓库再来一遍。。
 看了半天文档和Wiki，现在做了这个，还行吧？
 
-emmm，我困了。还有好多想聊的，不过以后再说吧~
+emmm，我困了。还有好多想聊的，以后再说吧~🌹🌹🌹
