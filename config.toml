@@ -1,7 +1,7 @@
 baseURL = "https://liucreator.github.io/"
 title = "LEDIS' Blog"
 paginate = 5
-theme = "papermod"
+theme = "PaperMod"
 publishdir = "./docs"
 copyright = "是我的～"
 
