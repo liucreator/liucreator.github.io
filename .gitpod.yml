@@ -1,0 +1,11 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - name: Install Jekyll dependencies
+    before: bundle update && bundle install && git submodule update --init --recursive
+    init: echo "Your version of Jekyll is `jekyll -version`"
+    command: bundle exec jekyll serve --host=0.0.0.0
+
+# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
+ports:
+  - port: 4000
+    onOpen: open-browser
