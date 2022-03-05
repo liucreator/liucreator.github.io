@@ -1,12 +1,14 @@
-title: Jekyll Serial Programmer
+#theme: https://github.com/sharadcodes/jekyll-theme-serial-programmer
+
+title: Liucreator's Blog
 markdown: kramdown
-url: ""
+url: "https://liucreator.github.io/"
 baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: liucreator
+  email: liucreator@gmail.com
 
 plugins:
   - jemoji
