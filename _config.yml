@@ -2,8 +2,8 @@
 
 title: Liucreator's Blog
 markdown: kramdown
-url: "https://liucreator.github.io/"
-baseurl: "/jekyll-theme-serial-programmer"
+url: "https://liucreator.github.io"
+baseurl: "/"
 
 # for atom feed
 author:
